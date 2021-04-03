@@ -1,0 +1,22 @@
+# Overview
+##This analysis seeks to understand the discrepancy between the ride-sharing in Urban cities, Suburban Cities and Rural Cities. The analysis seeks to specifically understand differences
+* number of rides
+* number of drivers
+* the fares amassed in each of these three city types
+
+# Results
+## The results show that around 2/3 of PyBer's fares are generated from urban cities, mainly due to the fact that 1,625 of its 2,375 rides are carried out in urban cities. The rides in urban cities also have around 90% of the driver count (59,602 drivers). The average fare per ride in urban cities is around $25. Finally, the total fares in urban cities generally hovered between $1,500 and $2,500 every week
+
+## Suburban rides generate roughly 1/3 of PyBer's fares, again drivien primarily by the number of rides in those cities (625 of 2,375 rides). Suburban rides have require a little over 10% of the driver_count. The average fare per ride in urban cities is around $31. Finally, the total fares in suburban cities generally hovered between $500 and $1,500 every week
+
+## Finally, a relatively small proportion of fares and driver count belong to rural rides, despite having the highest average fare per ride of $25. Finally, the total fares in rural cities did not exceed $500 on a weekly basis
+
+## See ![City_Type_Summary.png](City_Type_Summary.png)
+## See ![PyBer_fare_summary.png](PyBer_fare_summary.png)
+
+
+# Summary
+## Key points to note are that urban city traffic drives fare and driver activity for PyBer. Due to the volume of rides, it also has lower  average fares per ride and average fares per driver. These figures are followed by suburban and rural cities in that order. To optimise fares, V. Isualise should consider the following:
+* Pushing more drivers to rural areas: these areas currently have the highest average fares and if these fares stay constant with increased driver count, it would provide more fares quickly
+* A similar strategy should be employed for suburban areas. With average fares higher than urban cities, sending more drivers to these areas should lead to more fares if the average fares remain constant
+* Consider raising the fare prices in urban areas: the gigantic demand for rides suggests that increased fares per ride will increase fares overall, even after accounting for price induced ride shortfalls
